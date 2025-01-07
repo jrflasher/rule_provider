@@ -1,4 +1,9 @@
 payload:
+  #INTRANET
+  - DOMAIN,hctm0201.sat.co.id
+  - DOMAIN,intranet.sat.co.id
+  - DOMAIN-SUFFIX,intranet.sat.co.id
+
   #BCA MOBILE
   - DOMAIN-KEYWORD,klikbca
   - DST-PORT,33303
